@@ -1,0 +1,12 @@
+	h1 {
+		font-family: Arial; color: white; font-size: 40px; text-shadow: 2px 2px 2px purple; text-decoration: underline;
+	}
+	table {
+		font-family: Arial;
+	}
+.A {
+	 font-family: Arial; color: white; text-decoration: underline;
+}
+.Description {
+	font-family: Arial; color: white; text-shadow: 2px 2px 2px pink;
+} 
